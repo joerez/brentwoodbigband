@@ -17,9 +17,9 @@
 		<ul class="cd-slider">
 			<li class="visible">
 				<div>
-					<h2 class="dynamic starWarsBackUp">Brentwood Big Band</h2>
-					<p class="dynamic stairsInRight">We bring Jazz to Brentwood, CA!</p>
-					<a href="#" class="cd-btn dynamic hopInLeft">Contact Us</a>
+					<h2 class="wow dynamic starWarsBackUp">Brentwood Big Band</h2>
+					<p class="wow dynamic stairsInRight">We bring Jazz to Brentwood, CA!</p>
+					<a href="#about" class="wow cd-btn dynamic hopInLeft">Contact Us</a>
 				</div>
 			</li>
 
