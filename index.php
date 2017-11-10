@@ -55,15 +55,34 @@
 <!-- end about section-->
 
 <!-- performances section -->
-
 <?php include "performances.php"; ?>
-
 <!--End performance Section -->
 
 <!--begin footer-->
-<?php include "footer.php"; ?>
-<!--End Footer-->
+<div class="wow dynamic fitIn">
 
+<?php include "footer.php"; ?>
+
+</div>
+
+<!--End Footer-->
+<p align="center">
+  Copyright 2017
+</p>
+
+<p align="center">
+ Coded with <span class="glyphicon glyphicon-heart"></span> by <a style="color: ;
+     padding: 0px 0px;
+     text-align: center;
+     text-decoration: underline;
+     display: inline-block;
+
+
+
+    color: blue;
+     text-decoration: underline;" class="joelink" href="mailto:rezenbiz@gmail.com">Joe Rezendes</a>
+</p>
+<br />
 <script src="/scroll.js"></script>
 
 <!-- classie.js by @desandro: https://github.com/desandro/classie -->

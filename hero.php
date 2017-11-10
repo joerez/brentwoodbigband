@@ -18,8 +18,8 @@
 			<li class="visible">
 				<div>
 					<h2 class="wow dynamic starWarsBackUp">Brentwood Big Band</h2>
-					<p class="wow dynamic stairsInRight">We bring Jazz to Brentwood, CA!</p>
-					<a href="#about" class="wow cd-btn dynamic hopInLeft">Contact Us</a>
+					<p class="wow dynamic stairsInRight">We bring Jazz to Brentwood, Antioch, and the surrounding area!</p>
+					<a href="#about" class="wow cd-btn dynamic hopInLeft">Learn More</a>
 				</div>
 			</li>
 
@@ -27,7 +27,7 @@
 				<div>
 					<h2>We Play For Events</h2>
 					<p>Reach out to us for booking info.</p>
-					<a href="#" class="cd-btn">Learn more</a>
+					<a href="#contact" class="cd-btn">Contact Us</a>
 				</div>
 			</li>
 
@@ -35,7 +35,7 @@
 				<div>
 					<h2>We are Charitable!</h2>
 					<p>We give back to Local Music Programs</p>
-					<a href="#" class="cd-btn">Learn more</a>
+					<a href="#about" class="cd-btn">Learn more</a>
 				</div>
 			</li>
 
@@ -43,7 +43,7 @@
 				<div>
 					<h2>Musicians of all ages!</h2>
 					<p>We bridge the gap over several generations.</p>
-					<a href="#" class="cd-btn">Learn more</a>
+					<a href="#about" class="cd-btn">Learn more</a>
 				</div>
 			</li>
 		</ul> <!-- .cd-slider -->

@@ -53,6 +53,8 @@ width: 100%;
         <p class="abp" align="center">
           B3 performs music from the dance era to more contemporary pieces. Going on 12 years since its inception, B3 strives to cultivate abilities in musicianship and professionalism while developing young talent in the Brentwood-Oakley area.  B3 is a community minded organization, operating as a collective and has performed for thousands of audience members over the years in the North Bay Area and has donated thousands of dollars to many local schools and charities. Members hope to serve their community through their genuine interpretation of Jazz, the original American art form.
       </p>
+      <br />
+      <center><a class="btn-danger" href="#performances">View Performances</a></center>
 
       <br />
       </div>
